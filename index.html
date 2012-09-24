@@ -1,0 +1,66 @@
+<html>
+<head>
+	<title>Cyclic Vacuum Cannon</title>
+	<style type="text/css">
+		body {
+			padding: 0px;
+			margin: 0px;
+			background-color: #333;
+		}
+	</style>
+</head>
+<body onload="new p.CyclicVacuumCannonApp">
+<canvas id="canvas"></canvas>
+<script type="text/javascript" src="http://code.createjs.com/easeljs-0.5.0.min.js"></script>
+<script type="text/javascript">
+
+	// herein lies the juice
+
+	// namespacing & shortcuts
+	var c = createjs;
+	var presstube = {};
+	var p = presstube;
+
+	// create our app
+	p.CyclicVacuumCannonApp = function() {
+
+		var canvas = document.getElementById("canvas");
+		var stage = new c.Stage(canvas);
+		var bgRect = new c.Shape;
+		var centeredContainer = new c.Container;
+		var placeholderDot = new c.Shape;
+
+		c.Ticker.setFPS(30);
+		c.Ticker.addListener(stage);
+
+		stage.onTick = function(e) {
+			// console.log("stage tick here!", e);
+		}
+
+		function resize() {
+			canvas.width = window.innerWidth;
+			canvas.height = window.innerHeight;
+
+			bgRect.graphics.clear().beginFill("333").drawRect(0, 0, canvas.width, canvas.height);
+
+			centeredContainer.x = canvas.width / 2;
+			centeredContainer.y = canvas.height / 2;
+		}
+		resize();
+		window.onresize = resize;
+
+		stage.onClick = function(e) {
+			// console.log("stage click here!", e);
+		}
+
+		stage.addChild(bgRect);
+		placeholderDot.graphics.beginFill("f00").drawCircle(0, 0, 30);
+		centeredContainer.addChild(placeholderDot);
+		stage.addChild(centeredContainer);
+
+	}
+
+
+</script>
+</body>
+</html>
