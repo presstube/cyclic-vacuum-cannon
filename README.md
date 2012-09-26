@@ -1,4 +1,4 @@
-![A concept drawing of a Cyclic Vacuum Cannon](http://presstube.com/cyclic-vacuum-cannon/img/cvc/cvc-fleshed-out.jpg)
+![Cyclic Vacuum Cannon Title Screen](http://presstube.com/cyclic-vacuum-cannon/img/cvc-dark-title-screen.jpg)
 
 Cyclic Vacuum Cannon
 ====================
