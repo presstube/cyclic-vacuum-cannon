@@ -4,9 +4,11 @@ Cyclic Vacuum Cannon
 ====================
 First it steals.. Then it jettisons.
 
-The Cyclic Vacuum Cannon is a curiosity that I've been wanting to build for a while. Its a whimsical fantasy engine/gun that steals objects from elsewhere in the universe then spits them out to propel itself forward or blast its enemies. 
+The Cyclic Vacuum Cannon is a whimsical fantasy engine/gun that steals objects from elsewhere in the universe then spits them out to propel itself (or its host) forward or blast enemies. It's a curiosity that I've been wanting to attempt building for a while, and is the inaugural project in my new code journal.
 
 You can find out more about the Cyclic Vacuum Cannon at its [Presstube Project Page](http://presstube.com/cyclic-vacuum-cannon "Cyclic Vacuum Cannon at Presstube").
+
+♥ James (@presstube)
 
 
 =================
