@@ -52,7 +52,7 @@ I have three different groups of people in mind while making this journal:
 
 1. Like-minded coders who might find it interesting to peer over my shoulder as I work.
 2. Those who are a lot better at this stuff than I am who might get a chuckle out of my backwards ways and/or point me in the right direction about how to improve. (suggestions and critique will be incorporated into future journal entries)
-3. People who are new to code but are curious about it, and might like to peek in via the context of a fun, silly, highly visual project.
+3. People who are new to code but are curious about it, and might like to peek into the world of programming via a fun, silly, highly visual project.
 
 
 =================
