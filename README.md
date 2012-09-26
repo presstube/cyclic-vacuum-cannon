@@ -14,9 +14,7 @@ The Cyclic Vacuum Cannon is a contraption that steals objects from elsewhere in 
 =================
 
 
-##Episodes##
-
-###Episode 0: Brainstorming → [Watch Screencast](https://vimeo.com/48454761 "Watch Episode 0: Brainstorming on Vimeo")###
+##Episode 0: Brainstorming → [Watch Screencast](https://vimeo.com/48454761 "Watch Episode 0: Brainstorming on Vimeo")##
 In this episode I break a concept drawing of the Cyclic Vacuum Cannon into its constituent parts, take a first crack at naming them, and think out loud about their responsibilities & relationships. Starting a project this way helps me get a better understanding of what I'm in for, and decide where to start building.
 [![Part 0 - Brainstorming](http://presstube.com/cyclic-vacuum-cannon/img/vimeo-screenshot-part-0.jpg)](https://vimeo.com/48454761 "Watch Episode 0: Brainstorming on Vimeo")
 
@@ -24,7 +22,7 @@ In this episode I break a concept drawing of the Cyclic Vacuum Cannon into its c
 
 
 
-###Episode 1: Setup → [Watch Screencast](https://vimeo.com/50235100 "Watch Episode 1: Setup on Vimeo")###
+##Episode 1: Setup → [Watch Screencast](https://vimeo.com/50235100 "Watch Episode 1: Setup on Vimeo")##
 In this episode I do the setup dirty work that's necessary before we can get to the fun stuff: 
 
 - Create an open source repo here at GitHub 
@@ -36,7 +34,7 @@ In this episode I do the setup dirty work that's necessary before we can get to 
 
 
 
-###Coming up...###
+##Coming up next...##
 In episode 3 we'll fiiiinally get down to the fun part: rolling up our sleeves and starting to build the cannon itself.
 
 
