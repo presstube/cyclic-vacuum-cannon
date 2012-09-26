@@ -4,9 +4,9 @@ Cyclic Vacuum Cannon
 ====================
 First it steals.. Then it jettisons.
 
-The Cyclic Vacuum Cannon is a contraption that steals objects from elsewhere in the universe then spits them out to propel itself (or its host) forward and/or blast enemies. It's a curiosity that I've been wanting to bring to life for a while, and the inaugural project in the [Presstube Code Journal](#about-presstube-code-journal "About Presstube Code Journal").
+The Cyclic Vacuum Cannon is a contraption that steals objects from elsewhere in the universe then spits them out to propel itself (or its host) forward and/or blast enemies. It's a concept from my sketchbook that I've been wanting to bring to life for a while, and chose it as the inaugural project for the [Presstube Code Journal](#about-presstube-code-journal "About Presstube Code Journal").
 
-You can find out more about the Cyclic Vacuum Cannon at [its other home at Presstube](http://presstube.com/cyclic-vacuum-cannon "Cyclic Vacuum Cannon at Presstube").
+<!-- You can find out more about the Cyclic Vacuum Cannon at [its other home at Presstube](http://presstube.com/cyclic-vacuum-cannon "Cyclic Vacuum Cannon at Presstube"). -->
 
 ♥ James ([@presstube](http://twitter.com/presstube "Presstube on Twitter"))
 
@@ -18,7 +18,7 @@ You can find out more about the Cyclic Vacuum Cannon at [its other home at Press
 
 ###Episode 0: Brainstorming → [Watch Screencast](https://vimeo.com/48454761 "Watch Episode 0: Brainstorming on Vimeo")###
 In this episode I break a concept drawing of the Cyclic Vacuum Cannon into its constituent parts, take a first crack at naming them, and think out loud about their responsibilities & relationships. Starting a project this way helps me get a better understanding of what I'm in for, and decide where to start building.
-[![Part 0 - Brainstorming](http://presstube.com/cyclic-vacuum-cannon/img/vimeo-screenshot-part-0.jpg)](https://vimeo.com/48454761 "CVC - Brainstorming on Vimeo")
+[![Part 0 - Brainstorming](http://presstube.com/cyclic-vacuum-cannon/img/vimeo-screenshot-part-0.jpg)](https://vimeo.com/48454761 "Watch Episode 0: Brainstorming on Vimeo")
 
 
 
@@ -31,7 +31,7 @@ In this episode I do the setup dirty work that's necessary before we can get to 
 - Briefly introduce my choice of tools 
 - Craft a workspace & workflow to use as we move forward.
 
-[![Part 1 - Setup](http://presstube.com/cyclic-vacuum-cannon/img/vimeo-screenshot-part-1.jpg)](https://vimeo.com/50235100 "CVC - Setup on Vimeo")
+[![Part 1 - Setup](http://presstube.com/cyclic-vacuum-cannon/img/vimeo-screenshot-part-1.jpg)](https://vimeo.com/50235100 "Watch Episode 1: Setup on Vimeo")
 
 
 
