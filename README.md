@@ -34,6 +34,7 @@ I love watching people work. It's one of my favorite ways to learn. In case ther
 I plan to release each journal entry as a short, 10-15min, screencast. Each entry will correspond to a branch in this repo so you can follow along, and/or take the project in a direction I never would have thought of.
 
 I have three different groups of people in mind while making this journal:
+
 1. Like-minded coders who might find it interesting to peer over my shoulder as I work.
 2. Those who are a lot better at all this stuff than I am who might be able to point me in the right direction about how to improve, and/or chuckle at my ineptitude.
 3. People who may never have coded before but are curious about it and want to see what it's all about in the context of a fun, silly, highly visual project.
