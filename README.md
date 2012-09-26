@@ -4,7 +4,7 @@ Cyclic Vacuum Cannon
 ====================
 First it steals.. Then it jettisons.
 
-The Cyclic Vacuum Cannon is a whimsical fantasy engine/gun that steals objects from elsewhere in the universe then spits them out to propel itself (or its host) forward or blast enemies. It's a curiosity that I've been wanting to bring to life for a while, and the inaugural project in the Presstube Code Journal.
+The Cyclic Vacuum Cannon is a whimsical fantasy contraption that steals objects from elsewhere in the universe then spits them out to propel itself (or its host) forward and/or blast enemies. It's a curiosity that I've been wanting to bring to life for a while, and the inaugural project in the Presstube Code Journal.
 
 You can find out more about the Cyclic Vacuum Cannon at its [Presstube Project Page](http://presstube.com/cyclic-vacuum-cannon "Cyclic Vacuum Cannon at Presstube").
 
@@ -16,8 +16,8 @@ You can find out more about the Cyclic Vacuum Cannon at its [Presstube Project P
 
 ##Episodes##
 
-[![Part 0 - Brainstorming](http://presstube.com/cyclic-vacuum-cannon/img/part-0-video.jpg)](https://vimeo.com/48454761 "CVC - Brainstorming on Vimeo")
 ###Episode 0: Brainstorming → [Watch Screencast](https://vimeo.com/48454761 "CVC - Brainstorming on Vimeo")###
+[![Part 0 - Brainstorming](http://presstube.com/cyclic-vacuum-cannon/img/part-0-video.jpg)](https://vimeo.com/48454761 "CVC - Brainstorming on Vimeo")
 In this episode I break a concept drawing of the Cyclic Vacuum Cannon into its constituent parts, take a first crack at naming them, and think out loud about their responsibilities & relationships. Starting a project this way helps me get a better understanding of what I'm in for, and to decide where to start building.
 
 
