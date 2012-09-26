@@ -16,22 +16,22 @@ You can find out more about the Cyclic Vacuum Cannon at [its other home at Press
 
 ##Episodes##
 
-###Episode 0: Brainstorming → [Watch Screencast](https://vimeo.com/48454761 "CVC - Brainstorming on Vimeo")###
+###Episode 0: Brainstorming → [Watch Screencast](https://vimeo.com/48454761 "Watch Episode 0: Brainstorming on Vimeo")###
 In this episode I break a concept drawing of the Cyclic Vacuum Cannon into its constituent parts, take a first crack at naming them, and think out loud about their responsibilities & relationships. Starting a project this way helps me get a better understanding of what I'm in for, and decide where to start building.
-[![Part 0 - Brainstorming](http://presstube.com/cyclic-vacuum-cannon/img/part-0-video.jpg)](https://vimeo.com/48454761 "CVC - Brainstorming on Vimeo")
+[![Part 0 - Brainstorming](http://presstube.com/cyclic-vacuum-cannon/img/vimeo-screenshot-part-0.jpg)](https://vimeo.com/48454761 "CVC - Brainstorming on Vimeo")
 
 
 
 
 
-###Episode 1: Setup → [Watch Screencast](https://vimeo.com/50235100 "CVC - Setup on Vimeo")###
+###Episode 1: Setup → [Watch Screencast](https://vimeo.com/50235100 "Watch Episode 1: Setup on Vimeo")###
 In this episode I do the setup dirty work that's necessary before we can get to the fun stuff: 
 
 - Create an open source repo here at GitHub 
 - Briefly introduce my choice of tools 
 - Craft a workspace & workflow to use as we move forward.
 
-[![Part 1 - Setup](http://presstube.com/cyclic-vacuum-cannon/img/part-1-video.jpg)](https://vimeo.com/50235100 "CVC - Setup on Vimeo")
+[![Part 1 - Setup](http://presstube.com/cyclic-vacuum-cannon/img/vimeo-screenshot-part-1.jpg)](https://vimeo.com/50235100 "CVC - Setup on Vimeo")
 
 
 
