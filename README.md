@@ -33,7 +33,7 @@ In this episode I do some chores that are necessary before we can get to the fun
 
 
 ##Coming up next...##
-In episode 3 we'll fiiiinally get down to the fun part: rolling up our sleeves and starting to build the cannon itself.
+In the next episode we'll fiiiinally get down to the fun part: rolling up our sleeves and getting our hands dirty building the cannon itself.
 
 
 =================
