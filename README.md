@@ -26,9 +26,11 @@ In this episode I break a concept drawing of the Cyclic Vacuum Cannon into its c
 
 ###Episode 1: Setup → [Watch Screencast](https://vimeo.com/48454761 "CVC - Brainstorming on Vimeo")###
 In this episode I do the setup dirty work that's necessary before we can get to the fun stuff: 
+
 - Create an open source repo here at GitHub 
 - Briefly introduce my choice of tools 
 - Craft a workspace & workflow to use as we move forward.
+
 [![Part 1 - Setup](http://presstube.com/cyclic-vacuum-cannon/img/part-1-video.jpg)](https://vimeo.com/48454761 "CVC - Setup on Vimeo")
 
 
