@@ -17,16 +17,22 @@ You can find out more about the Cyclic Vacuum Cannon at [its other home at Press
 ##Episodes##
 
 ###Episode 0: Brainstorming → [Watch Screencast](https://vimeo.com/48454761 "CVC - Brainstorming on Vimeo")###
+In this episode I break a concept drawing of the Cyclic Vacuum Cannon into its constituent parts, take a first crack at naming them, and think out loud about their responsibilities & relationships. Starting a project this way helps me get a better understanding of what I'm in for, and decide where to start building.
 [![Part 0 - Brainstorming](http://presstube.com/cyclic-vacuum-cannon/img/part-0-video.jpg)](https://vimeo.com/48454761 "CVC - Brainstorming on Vimeo")
-In this episode I break a concept drawing of the Cyclic Vacuum Cannon into its constituent parts, take a first crack at naming them, and think out loud about their responsibilities & relationships. Starting a project this way helps me get a better understanding of what I'm in for, and to decide where to start building.
+
+
+
 
 
 ###Episode 1: Setup → [Watch Screencast](https://vimeo.com/48454761 "CVC - Brainstorming on Vimeo")###
-[![Part 1 - Setup](http://presstube.com/cyclic-vacuum-cannon/img/part-1-video.jpg)](https://vimeo.com/48454761 "CVC - Setup on Vimeo")
 In this episode I do the setup dirty work that's necessary before we can get to the fun stuff: 
 - Create an open source repo here at GitHub 
 - Briefly introduce my choice of tools 
 - Craft a workspace & workflow to use as we move forward.
+[![Part 1 - Setup](http://presstube.com/cyclic-vacuum-cannon/img/part-1-video.jpg)](https://vimeo.com/48454761 "CVC - Setup on Vimeo")
+
+
+
 
 ###Coming up...###
 In episode 3 we'll fiiiinally get down to the fun part: rolling up our sleeves and starting to build the cannon itself.
@@ -51,7 +57,7 @@ I have three different groups of people in mind while making this journal:
 
 
 ##Get in touch!##
-Questions, comments, daydreams?  
+Questions, comments, requests, daydreams?  
 Don't hesitate to get in touch:  
 Twitter: [@presstube](http://twitter.com/presstube "Presstube on Twitter")  
 Email: j [at] presstube [dot] com
