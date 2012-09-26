@@ -1,3 +1,5 @@
+![Presstube Logo](http://presstube.com/cyclic-vacuum-cannon/img/pt_logo_black.png)
+
 Cyclic Vacuum Cannon
 ====================
 First it steals.. Then it jettisons.
@@ -6,7 +8,7 @@ The Cyclic Vacuum Cannon is a curiosity that I've been wanting to build for a wh
 
 You can find out more about the Cyclic Vacuum Cannon at its [Presstube Project Page](http://presstube.com/cyclic-vacuum-cannon "Cyclic Vacuum Cannon at Presstube").
 
-![GitHub Logo](http://presstube.com/cyclic-vacuum-cannon/img/cvc/cvc-fleshed-out.jpg)
+![A concept drawing of a Cyclic Vacuum Cannon](http://presstube.com/cyclic-vacuum-cannon/img/cvc/cvc-fleshed-out.jpg)
 
 
 =================
