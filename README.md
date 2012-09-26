@@ -15,7 +15,9 @@ You can find out more about the Cyclic Vacuum Cannon at its [Presstube Project P
 ###Episode 1: Brainstorming -> [Watch Screencast](https://vimeo.com/48454761 "CVC - Brainstorming on Vimeo")###
 In this episode I break a concept drawing of the Cyclic Vacuum Cannon into its constituent parts, take a first crack at naming them, and think out loud about their responsibilities & relationships. Starting a project this way helps me get a better understanding of what I'm in for, and to decide where to start building.
 
+
 ###Episode 2: Setup -> [Watch Screencast](https://vimeo.com/48454761 "CVC - Brainstorming on Vimeo")###
+
 In this episode I do the setup dirty work that's necessary before we can get to the fun stuff: 
 - Create an open source repo here at GitHub 
 - Briefly introduce my choice of tools 
