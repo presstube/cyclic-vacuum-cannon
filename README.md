@@ -4,11 +4,11 @@ Cyclic Vacuum Cannon
 ====================
 First it steals.. Then it jettisons.
 
-The Cyclic Vacuum Cannon is a whimsical fantasy contraption that steals objects from elsewhere in the universe then spits them out to propel itself (or its host) forward and/or blast enemies. It's a curiosity that I've been wanting to bring to life for a while, and the inaugural project in the Presstube Code Journal.
+The Cyclic Vacuum Cannon is a contraption that steals objects from elsewhere in the universe then spits them out to propel itself (or its host) forward and/or blast enemies. It's a curiosity that I've been wanting to bring to life for a while, and the inaugural project in the [Presstube Code Journal](#about-presstube-code-journal "About Presstube Code Journal").
 
-You can find out more about the Cyclic Vacuum Cannon at its [Presstube Project Page](http://presstube.com/cyclic-vacuum-cannon "Cyclic Vacuum Cannon at Presstube").
+You can find out more about the Cyclic Vacuum Cannon at [its other home at Presstube](http://presstube.com/cyclic-vacuum-cannon "Cyclic Vacuum Cannon at Presstube").
 
-♥ James (@presstube)
+♥ James ([@presstube](http://twitter.com/presstube "Presstube on Twitter"))
 
 
 =================
@@ -22,7 +22,7 @@ In this episode I break a concept drawing of the Cyclic Vacuum Cannon into its c
 
 
 ###Episode 1: Setup → [Watch Screencast](https://vimeo.com/48454761 "CVC - Brainstorming on Vimeo")###
-
+[![Part 1 - Setup](http://presstube.com/cyclic-vacuum-cannon/img/part-1-video.jpg)](https://vimeo.com/48454761 "CVC - Setup on Vimeo")
 In this episode I do the setup dirty work that's necessary before we can get to the fun stuff: 
 - Create an open source repo here at GitHub 
 - Briefly introduce my choice of tools 
@@ -51,11 +51,9 @@ I have three different groups of people in mind while making this journal:
 
 
 ##Get in touch!##
-Questions, comments, daydreams?
-Don't hesitate to get in touch:
-
-Twitter: [@presstube](http://twitter.com/presstube "Presstube on Twitter")
-
+Questions, comments, daydreams?  
+Don't hesitate to get in touch:  
+Twitter: [@presstube](http://twitter.com/presstube "Presstube on Twitter")  
 Email: j [at] presstube [dot] com
 
 
