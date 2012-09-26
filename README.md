@@ -44,11 +44,11 @@ In episode 3 we'll fiiiinally get down to the fun part: rolling up our sleeves a
 
 
 ##About Presstube Code Journal##
-I love watching people work. It's one of my favorite ways to learn. In case there's anyone out there who feels the same way I've decided to start a code journal where I'll step through the creation of a project from the pre-code planning phase, all the way through to launching it in its finished form.
+I love watching people work. It's one of my favorite ways to learn. In case there's anyone out there who feels the same way I've decided to start a code journal where I step through the creation of a projects from their pre-code planning phase, all the way through to launching them in their finished form.
 
-I plan to release each journal entry as a short, 10-15 minute  screencast. Each entry will correspond to a branch in this repo so you can follow along, and/or take the project in a direction I never would have thought of.
+I plan to release each journal entry as a short, 10-15 minute  screencast. Each entry will correspond to a branch in their GitHub repo so you can follow along, and/or take the project in your own direction.
 
-I have three different groups of people in mind while making this journal:
+I have several kinds of people in mind while making this journal:
 
 1. Like-minded coders who might find it interesting to peer over my shoulder as I work.
 2. Those who are a lot better at this stuff than I am who might get a chuckle out of my backwards ways and/or point me in the right direction about how to improve. (suggestions and critique will be incorporated into future journal entries)
@@ -60,9 +60,10 @@ I have three different groups of people in mind while making this journal:
 
 ##Get in touch!##
 Questions, comments, requests, daydreams?  
-Don't hesitate to get in touch:  
-Twitter: [@presstube](http://twitter.com/presstube "Presstube on Twitter")  
-Email: j [at] presstube [dot] com
+Don't hesitate to get in touch: 
+
+- Twitter: [@presstube](http://twitter.com/presstube "Presstube on Twitter")  
+- Email: j [at] presstube [dot] com
 
 
 
