@@ -12,27 +12,26 @@ You can find out more about the Cyclic Vacuum Cannon at its [Presstube Project P
 
 ##Episodes##
 
-###Episode 1: Brainstorming ([Watch Screencast](https://vimeo.com/48454761 "CVC - Brainstorming on Vimeo"))###
+###Episode 1: Brainstorming -> [Watch Screencast](https://vimeo.com/48454761 "CVC - Brainstorming on Vimeo")###
 In this episode I break a concept drawing of the Cyclic Vacuum Cannon into its constituent parts, take a first crack at naming them, and think out loud about their responsibilities & relationships. Starting a project this way helps me get a better understanding of what I'm in for, and to decide where to start building.
 
-###Episode 2: Setup###
-[Watch Screencast](https://vimeo.com/48454761 "CVC - Brainstorming on Vimeo")
-In this episode I do the setup dirty work that's necessary before I can get to the fun stuff: 
-- create an open source repo at GitHub, 
-- briefly introduce my choice of tools, 
-- and craft a workspace / workflow that I can use as I move forward.
+###Episode 2: Setup### -> [Watch Screencast](https://vimeo.com/48454761 "CVC - Brainstorming on Vimeo")
+In this episode I do the setup dirty work that's necessary before we can get to the fun stuff: 
+- Create an open source repo here at GitHub 
+- Briefly introduce my choice of tools 
+- Craft a workspace & workflow to use as we move forward.
 
 ###Coming up...###
-In episode 3 I'll fiiinally get down to the fun part: rolling up my sleeves and starting to build the cannon itself.
+In episode 3 we'll fiiiinally get down to the fun part: rolling up our sleeves and starting to build the cannon itself.
 
 
 =================
 
 
 ##About Presstube Code Journal##
-I love watching people work. It's one of my favorite ways to learn. In case there's anyone out there who feels the same way I've decided to start a code journal where I step through the creation of a Presstube project from the pre-code brainstorming phase, all the way through to launching it in its finished state, and everything in-between. 
+I love watching people work. It's one of my favorite ways to learn. In case there's anyone out there who feels the same way I decided to start a code journal where I'd step through the creation of a project from the pre-code planning phase, all the way through to launching it in its finished state.
 
-I'll release each journal entry as a short, 10-15min, screencast. Each entry will correspond to a branch in this repo so you can follow along, and/or take the project in a direction I never would have thought of.
+I plan to release each journal entry as a short, 10-15min, screencast. Each entry will correspond to a branch in this repo so you can follow along, and/or take the project in a direction I never would have thought of.
 
 I have three different groups of people in mind while making this journal:
 1. Like-minded coders who might find it interesting to peer over my shoulder as I work.
@@ -46,7 +45,9 @@ I have three different groups of people in mind while making this journal:
 ##Get in touch!##
 Questions, comments, daydreams?
 Don't hesitate to get in touch:
+
 Twitter: [@presstube](http://twitter.com/presstube "Presstube on Twitter")
+
 Email: j [at] presstube [dot] com
 
 
