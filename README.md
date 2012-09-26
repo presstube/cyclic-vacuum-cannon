@@ -1,4 +1,4 @@
-![Presstube Logo](http://presstube.com/cyclic-vacuum-cannon/img/pt_logo_black.png)
+![A concept drawing of a Cyclic Vacuum Cannon](http://presstube.com/cyclic-vacuum-cannon/img/cvc/cvc-fleshed-out.jpg)
 
 Cyclic Vacuum Cannon
 ====================
@@ -7,8 +7,6 @@ First it steals.. Then it jettisons.
 The Cyclic Vacuum Cannon is a curiosity that I've been wanting to build for a while. Its a whimsical fantasy engine/gun that steals objects from elsewhere in the universe then spits them out to propel itself forward or blast its enemies. 
 
 You can find out more about the Cyclic Vacuum Cannon at its [Presstube Project Page](http://presstube.com/cyclic-vacuum-cannon "Cyclic Vacuum Cannon at Presstube").
-
-![A concept drawing of a Cyclic Vacuum Cannon](http://presstube.com/cyclic-vacuum-cannon/img/cvc/cvc-fleshed-out.jpg)
 
 
 =================
@@ -35,15 +33,15 @@ In episode 3 we'll fiiiinally get down to the fun part: rolling up our sleeves a
 
 
 ##About Presstube Code Journal##
-I love watching people work. It's one of my favorite ways to learn. In case there's anyone out there who feels the same way I decided to start a code journal where I'd step through the creation of a project from the pre-code planning phase, all the way through to launching it in its finished state.
+I love watching people work. It's one of my favorite ways to learn. In case there's anyone out there who feels the same way I've decided to start a code journal where I'll step through the creation of a project from the pre-code planning phase, all the way through to launching it in its finished form.
 
-I plan to release each journal entry as a short, 10-15min, screencast. Each entry will correspond to a branch in this repo so you can follow along, and/or take the project in a direction I never would have thought of.
+I plan to release each journal entry as a short, 10-15 minute  screencast. Each entry will correspond to a branch in this repo so you can follow along, and/or take the project in a direction I never would have thought of.
 
 I have three different groups of people in mind while making this journal:
 
 1. Like-minded coders who might find it interesting to peer over my shoulder as I work.
-2. Those who are a lot better at all this stuff than I am who might be able to point me in the right direction about how to improve, and/or chuckle at my ineptitude.
-3. People who may never have coded before but are curious about it and want to see what it's all about in the context of a fun, silly, highly visual project.
+2. Those who are a lot better at this stuff than I am who might get a chuckle out of my backwards ways and/or point me in the right direction about how to improve. (suggestions and critique will be incorporated into future journal entries)
+3. People who are new to code but are curious about it, and might like to peek in via the context of a fun, silly, highly visual project.
 
 
 =================
