@@ -42,21 +42,22 @@ In the next episode we'll fiiiinally get down to the fun part: rolling up our sl
 ##About Presstube Code Journal##
 I love watching people work. It's one of my favorite ways to learn. In case there's anyone out there who feels the same way I've decided to start a code journal where I step through the creation of projects from their pre-code planning phase, all the way through to their finished form.
 
-I plan to release each journal entry as a short, 10-15 minute  screencast. Each entry will correspond to a branch in their GitHub repo so you can follow along, and/or take the project in your own direction.
+I plan to release each journal entry as a short, 10-15 minute  screencast. Each entry will correspond to a branch in that project's GitHub repo so you can follow along, and/or take off in your own direction.
 
 I have several kinds of people in mind while making this journal:
 
-1. Like-minded coders who might find it interesting to peer over someone else's shoulder while they work.
-2. Those who are a lot better at this stuff than I am who might get a chuckle out of my backwards ways and/or point me in the right direction about how to improve. (suggestions and critique will be incorporated into future entries)
-3. People who are new to code but are curious about it, and might like to peek into the world of programming via a fun, silly, highly visual project.
+1. Like-minded curious folk (coder or not) who might find it interesting to peer over someone else's shoulder while they make something weird. 
+
+2. People who are a lot better at this stuff than I am who might get a chuckle out of a clunky way I'm doing something and point me in the right direction on something I could improve. (suggestions and critique will be incorporated into future entries. Gotta pay that juice forward!)
+
+3. People who are new to programming and might like to be exposed to some fun, deliberately impractical, highly visual code.
 
 
 =================
 
 
 ##Get in touch!##
-Questions, comments, requests, daydreams?  
-Don't hesitate to get in touch: 
+Questions, comments, requests, daydreams? Don't hesitate to get in touch: 
 
 - Twitter: [@presstube](http://twitter.com/presstube "Presstube on Twitter")  
 - Email: j [at] presstube [dot] com
