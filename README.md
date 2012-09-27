@@ -43,9 +43,9 @@ In the next episode we'll fiiiinally get down to the fun part: rolling up our sl
 [![Part 1 - Setup](http://presstube.com/cyclic-vacuum-cannon/img/code-journal-dark-title-screen.jpg)](https://vimeo.com/50235100 "Watch Cyclic Vacuum Cannon Code Journal Part 1: Setup")
 I love watching people work. It's one of my favorite ways to learn. In case there's anyone out there who feels the same way I've decided to start a code journal where I step through the creation of projects from their pre-code planning phase, all the way through to their finished form.
 
-I plan to release each journal entry as a short, 10-15 minute  screencast. Each entry will correspond to a branch in that project's GitHub repo so you can follow along, and/or take off in your own direction.
+I plan to release each journal entry as a short, 10-15 minute screencast, each of which will correspond to a git branch so you can follow along, and/or take off in your own direction.
 
-I have several kinds of people in mind while making this journal:
+I have several groups of people in mind while making this journal:
 
 1. Like-minded curious folk, coders and non-coders alike, who might find it interesting to peer over someone else's shoulder while they make something weird and personal. 
 
