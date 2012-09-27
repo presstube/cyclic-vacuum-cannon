@@ -1,5 +1,5 @@
 #Cyclic Vacuum Cannon#
-![Cyclic Vacuum Cannon Title Screen](http://presstube.com/cyclic-vacuum-cannon/img/cvc-dark-title-screen.jpg)
+[![Part 1 - Setup](http://presstube.com/cyclic-vacuum-cannon/img/cvc-dark-title-screen.jpg)](https://vimeo.com/50235100 "Watch Part 1: Setup")
 
 The Cyclic Vacuum Cannon is a contraption that steals objects from elsewhere in time and space, then spits them out to propel itself forward and/or blast enemies. It's a concept from my sketchbook that I've been wanting to bring to life for a while, so I chose it as the inaugural project for my [Code Journal](#about-presstube-code-journal "About Presstube Code Journal").
 
@@ -12,7 +12,7 @@ The Cyclic Vacuum Cannon is a contraption that steals objects from elsewhere in 
 
 
 ##Part 0: Brainstorming → [Watch Screencast](https://vimeo.com/48454761 "Watch Part 0: Brainstorming on Vimeo")##
-[![Part 0 - Brainstorming](http://presstube.com/cyclic-vacuum-cannon/img/vimeo-screenshot-part-0.jpg)](https://vimeo.com/48454761 "Watch Part 0: Brainstorming on Vimeo")
+[![Part 0 - Brainstorming](http://presstube.com/cyclic-vacuum-cannon/img/vimeo-screenshot-part-0.jpg)](https://vimeo.com/48454761 "Watch Part 0: Brainstorming")
 In this Part I break a concept drawing of the cannon into its constituent parts, take a first crack at naming them, and think out loud about their responsibilities & relationships. Starting a project this way helps me get a better understanding of what I'm in for, and decide where to start building.
 
 
@@ -20,8 +20,8 @@ In this Part I break a concept drawing of the cannon into its constituent parts,
 
 
 
-##Part 1: Setup → [Watch Screencast](https://vimeo.com/50235100 "Watch Part 1: Setup on Vimeo")##
-[![Part 1 - Setup](http://presstube.com/cyclic-vacuum-cannon/img/vimeo-screenshot-part-1.jpg)](https://vimeo.com/50235100 "Watch Part 1: Setup on Vimeo")
+##Part 1: Setup → [Watch Screencast](https://vimeo.com/50235100 "Watch Part 1: Setup")##
+[![Part 1 - Setup](http://presstube.com/cyclic-vacuum-cannon/img/vimeo-screenshot-part-1.jpg)](https://vimeo.com/50235100 "Watch Part 1: Setup")
 In this Part I do some chores that are necessary before we can get to the fun stuff: 
 - Create an open source repo here at GitHub 
 - Briefly introduce my choice of tools 
@@ -40,7 +40,7 @@ In the next Part we'll fiiiinally get down to the fun part: rolling up our sleev
 
 
 ##About Presstube Code Journal##
-[![Part 1 - Setup](http://presstube.com/cyclic-vacuum-cannon/img/code-journal-dark-title-screen.jpg)](https://vimeo.com/50235100 "Watch Cyclic Vacuum Cannon Code Journal Part 1: Setup")
+[![Part 1 - Setup](http://presstube.com/cyclic-vacuum-cannon/img/code-journal-dark-title-screen.jpg)](https://vimeo.com/50235100 "Watch Part 1: Setup")
 I love watching people work. It's one of my favorite ways to learn. In case there's anyone out there who feels the same way I've decided to start a code journal where I step through the creation of projects from their pre-code planning phase, all the way through to their finished form.
 
 I plan to release each journal entry as a short, 10-15 minute screencast, each of which will correspond to a git branch so you can follow along, and/or take off in your own direction.
