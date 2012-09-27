@@ -65,7 +65,7 @@ I have several groups of people in mind while making this journal:
 
 ##Get in touch!##
 
-Questions, comments, requests, daydreams?
+Questions, comments, requests, daydreams, nightmares, hatred, filth?
 
 - → [Twitter](http://twitter.com/presstube "@Presstube on Twitter")  
 - → [Facebook](http://www.facebook.com/presstubecom "Presstube on Facebook")  
