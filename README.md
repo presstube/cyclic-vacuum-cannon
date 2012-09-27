@@ -1,5 +1,4 @@
 #Cyclic Vacuum Cannon#
-First it steals.. Then it jettisons.
 ![Cyclic Vacuum Cannon Title Screen](http://presstube.com/cyclic-vacuum-cannon/img/cvc-dark-title-screen.jpg)
 
 The Cyclic Vacuum Cannon is a contraption that steals objects from elsewhere in time and space, then spits them out to propel itself forward and/or blast enemies. It's a concept from my sketchbook that I've been wanting to bring to life for a while, so I chose it as the inaugural project for my [Code Journal](#about-presstube-code-journal "About Presstube Code Journal").
