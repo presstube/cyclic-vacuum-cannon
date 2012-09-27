@@ -57,10 +57,13 @@ I have several kinds of people in mind while making this journal:
 
 
 ##Get in touch!##
-Questions, comments, requests, daydreams? Don't hesitate to get in touch: 
+Questions, comments, requests, daydreams?
 
-- Twitter: [@presstube](http://twitter.com/presstube "Presstube on Twitter")  
-- Email: j [at] presstube [dot] com
+- → [Twitter](http://twitter.com/presstube "@Presstube on Twitter")  
+- → [Facebook](http://www.facebook.com/presstubecom "Presstube on Facebook")  
+- → [Google+](https://plus.google.com/106858098085928290587/posts "Presstube on Google+")  
+- → [Pinterest](http://pinterest.com/presstube/ "Presstube on Pinterest")  
+- → [Email](mailto:j@presstube.com "Email James Paterson")
 
 
 
