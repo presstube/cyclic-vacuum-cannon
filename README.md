@@ -40,6 +40,7 @@ In the next episode we'll fiiiinally get down to the fun part: rolling up our sl
 
 
 ##About Presstube Code Journal##
+[![Part 1 - Setup](http://presstube.com/cyclic-vacuum-cannon/img/code-journal-dark-title-screen.jpg)](https://vimeo.com/50235100 "Watch Cyclic Vacuum Cannon Code Journal Part 1: Setup")
 I love watching people work. It's one of my favorite ways to learn. In case there's anyone out there who feels the same way I've decided to start a code journal where I step through the creation of projects from their pre-code planning phase, all the way through to their finished form.
 
 I plan to release each journal entry as a short, 10-15 minute  screencast. Each entry will correspond to a branch in that project's GitHub repo so you can follow along, and/or take off in your own direction.
@@ -51,8 +52,6 @@ I have several kinds of people in mind while making this journal:
 2. People who are a lot better at this stuff than I am who might get a chuckle or a sigh out of the clunky way I'm doing something and point me in the right direction on how to improve. Suggestions & critique will be incorporated into future entries. Pass that tasty knowledge juice on!
 
 3. People who are new to programming and might like to be exposed to some fun, deliberately impractical, highly visual code.
-
-[![Part 1 - Setup](http://presstube.com/cyclic-vacuum-cannon/img/code-journal-dark-title-screen.jpg)](https://vimeo.com/50235100 "Watch Cyclic Vacuum Cannon Code Journal Part 1: Setup")
 
 
 
