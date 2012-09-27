@@ -52,6 +52,8 @@ I have several kinds of people in mind while making this journal:
 
 3. People who are new to programming and might like to be exposed to some fun, deliberately impractical, highly visual code.
 
+[![Part 1 - Setup](http://presstube.com/cyclic-vacuum-cannon/img/code-journal-dark-title-screen.jpg)](https://vimeo.com/50235100 "Watch Cyclic Vacuum Cannon Code Journal Part 1: Setup")
+
 
 
 
