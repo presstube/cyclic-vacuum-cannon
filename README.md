@@ -46,14 +46,14 @@ I plan to release each journal entry as a short, 10-15 minute  screencast. Each 
 
 I have several kinds of people in mind while making this journal:
 
-1. Like-minded curious folk (coder or not) who might find it interesting to peer over someone else's shoulder while they make something weird. 
+1. Like-minded curious folk, coders and non-coders alike, who might find it interesting to peer over someone else's shoulder while they make something weird and personal. 
 
-2. People who are a lot better at this stuff than I am who might get a chuckle out of a clunky way I'm doing something and point me in the right direction on something I could improve. (suggestions and critique will be incorporated into future entries. Gotta pay that juice forward!)
+2. People who are a lot better at this stuff than I am who might get a chuckle or a sigh out of the clunky way I'm doing something and point me in the right direction on how to improve. Suggestions & critique will be incorporated into future entries. Pass that tasty knowledge juice on!
 
 3. People who are new to programming and might like to be exposed to some fun, deliberately impractical, highly visual code.
 
 
-=================
+
 
 
 ##Get in touch!##
