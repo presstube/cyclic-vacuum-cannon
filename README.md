@@ -16,14 +16,6 @@ The Cyclic Vacuum Cannon is a contraption that steals objects from elsewhere in 
 
 
 
-##Coming up next...##
-
-In the next Part we'll fiiiinally get down to the fun part: rolling up our sleeves and getting our hands dirty building the cannon itself.
-
-
-
-
-
 ##Part 1: Setup → [Watch Screencast](https://vimeo.com/50235100 "Watch Part 1: Setup")##
 
 [![Part 1 - Setup](http://presstube.com/cyclic-vacuum-cannon/img/vimeo-screenshot-part-1.jpg)](https://vimeo.com/50235100 "Watch Part 1: Setup")
@@ -44,6 +36,13 @@ In this Part I do some chores that are necessary before we can get to the fun st
 
 In this Part I break a concept drawing of the cannon into its constituent parts, take a first crack at naming them, and think out loud about their responsibilities & relationships. Starting a project this way helps me get a better understanding of what I'm in for, and decide where to start building.
 
+
+
+
+
+##Coming up next...##
+
+In the next Part we'll fiiiinally get down to the fun part: rolling up our sleeves and getting our hands dirty building the cannon itself.
 
 
 
