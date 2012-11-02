@@ -9,56 +9,80 @@
 		}
 	</style>
 </head>
-<body onload="new p.CyclicVacuumCannonApp">
+<body onload="new pt.CyclicVacuumCannonApp">
 <canvas id="canvas"></canvas>
 <script type="text/javascript" src="http://code.createjs.com/easeljs-0.5.0.min.js"></script>
 <script type="text/javascript">
 
-	// herein lies the juice
+	var c = createjs,
+		presstube = {},
+		pt = presstube,
+		p;
 
-	// namespacing & shortcuts
-	var c = createjs;
-	var presstube = {};
-	var p = presstube;
+	pt.CyclicVacuumCannonApp = function() {
 
-	// create our app
-	p.CyclicVacuumCannonApp = function() {
-
-		var canvas = document.getElementById("canvas");
-		var stage = new c.Stage(canvas);
-		var bgRect = new c.Shape;
-		var centeredContainer = new c.Container;
-		var placeholderDot = new c.Shape;
-
-		c.Ticker.setFPS(30);
-		c.Ticker.addListener(stage);
-
-		stage.onTick = function(e) {
-			// console.log("stage tick here!", e);
-		}
+		var canvas = document.getElementById("canvas"),
+			stage = new c.Stage(canvas),
+			bgRect = new c.Shape,
+			centeredContainer = new c.Container;
 
 		function resize() {
 			canvas.width = window.innerWidth;
 			canvas.height = window.innerHeight;
-
-			bgRect.graphics.clear().beginFill("333").drawRect(0, 0, canvas.width, canvas.height);
-
+			bgRect.graphics.clear().beginFill("555").drawRect(0, 0, canvas.width, canvas.height);
 			centeredContainer.x = canvas.width / 2;
 			centeredContainer.y = canvas.height / 2;
 		}
+
 		resize();
 		window.onresize = resize;
-
-		stage.onClick = function(e) {
-			// console.log("stage click here!", e);
-		}
-
+		c.Ticker.setFPS(30);
+		c.Ticker.addListener(stage);
 		stage.addChild(bgRect);
-		placeholderDot.graphics.beginFill("f00").drawCircle(0, 0, 30);
-		centeredContainer.addChild(placeholderDot);
 		stage.addChild(centeredContainer);
+		centeredContainer.addChild(new pt.Noun);
 
 	}
+
+
+	pt.Noun = function() { this.initialize(); };
+	p = pt.Noun.prototype = new c.Container;
+	p.Container_initialize = p.initialize;
+	pt.Noun.libraryAnimSpriteSheet = new c.SpriteSheet({"animations": {"all": [0, 2]}, "images": ["nounLibraryAnim.png"], "frames": {"regY": 42, "height": 90, "regX": 22, "width": 42, "count": 3}});
+	p.initialize = function() {
+
+		this.Container_initialize();
+
+		var noun = this,
+			libraryAnim = new c.BitmapAnimation(pt.Noun.libraryAnimSpriteSheet);
+
+			noun.addChild(libraryAnim);
+			libraryAnim.gotoAndStop(Math.floor(Math.random() * libraryAnim.spriteSheet._numFrames));
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </script>
