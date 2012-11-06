@@ -19,10 +19,10 @@ The Cyclic Vacuum Cannon is a contraption that steals objects from elsewhere in 
 
 [![Part 2 - Drawing Nouns](http://presstube.com/cyclic-vacuum-cannon/img/vimeo-screenshot-part-2.jpg)](https://vimeo.com/52880743 "Watch Part 2: Drawing Nouns")
 
-In this episode I take some initial steps towards bridging the gap between hand-drawn material and JavaScript:
+In this episode I take some initial steps towards bridging the gap between hand-drawn material and javascript/canvas:
 
 - Use Flash to draw some noun assets 
-- Then I use [Zoë](http://createjs.com/#!/Zoe "Go get Zoë") to rip those assets to a sprite sheet
+- Use [Zoë](http://createjs.com/#!/Zoe "Go get Zoë") to rip those assets to a sprite sheet
 - Code that sprite sheet up into the beginnings of a Noun object using [Easeljs](http://createjs.com/#!/EaselJS "Go get Easeljs")
 - Take a quick look at the way that the Createjs libraries approach inheritance in js
 - Do a small code cleanup & refactoring session
@@ -56,7 +56,7 @@ In this Part I break a concept drawing of the cannon into its constituent parts,
 
 ##Coming up next...##
 
-In the next Part I'll go a bit further bringing the Noun object to life by giving it 'materialize' and 'dematerialize' sequences. I'll also take a look at using Chrome's profiling tools to make sure our objects are being properly garbage collected.
+In the next Part I'll go a bit further towards bringing the Noun object to life by giving it 'materialize' and 'dematerialize' sequences. I'll also take a look at how to use Chrome's profiling tools to make sure objects are being properly garbage collected.
 
 
 
