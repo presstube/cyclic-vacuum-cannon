@@ -12,6 +12,7 @@
 <body onload="new pt.CyclicVacuumCannonApp">
 <canvas id="canvas"></canvas>
 <script type="text/javascript" src="http://code.createjs.com/easeljs-0.5.0.min.js"></script>
+<script type="text/javascript" src="http://code.createjs.com/tweenjs-0.3.0.min.js"></script>
 <script type="text/javascript">
 
 	var c = createjs,
@@ -34,13 +35,25 @@
 			centeredContainer.y = canvas.height / 2;
 		}
 
+		function spawnNoun() {
+			var noun = new pt.Noun;
+			noun.x = Math.random()*200 - Math.random()*200;
+			noun.y = Math.random()*200 - Math.random()*200;
+			noun.rotation = Math.random()*30 - Math.random()*30;
+			centeredContainer.addChild(noun);
+		}
+
+		function onPress() {
+			spawnNoun();
+		}
+
 		resize();
 		window.onresize = resize;
 		c.Ticker.setFPS(30);
 		c.Ticker.addListener(stage);
 		stage.addChild(bgRect);
 		stage.addChild(centeredContainer);
-		centeredContainer.addChild(new pt.Noun);
+		bgRect.onPress = onPress;
 
 	}
 
@@ -56,9 +69,27 @@
 		var noun = this,
 			libraryAnim = new c.BitmapAnimation(pt.Noun.libraryAnimSpriteSheet);
 
-			noun.addChild(libraryAnim);
-			libraryAnim.gotoAndStop(Math.floor(Math.random() * libraryAnim.spriteSheet._numFrames));
+		function materialize() {
+			c.Tween.get(libraryAnim).to({scaleX: 1, scaleY: 1}, 1000, c.Ease.quintOut);
+		}
 
+		function dematerialize() {
+			c.Tween.get(libraryAnim).to({scaleX: 0, scaleY: 0}, 1000, c.Ease.quintOut).call(onDematerializeComplete);
+		}
+
+		function onDematerializeComplete() {
+			noun.parent.removeChild(noun);
+		}
+
+		function onPress() {
+			dematerialize();
+		}
+
+		libraryAnim.scaleX = libraryAnim.scaleY = 0;
+		noun.addChild(libraryAnim);
+		libraryAnim.gotoAndStop(Math.floor(Math.random() * libraryAnim.spriteSheet.getNumFrames()));
+		materialize();
+		noun.onPress = onPress;
 	}
 
 
