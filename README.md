@@ -71,7 +71,7 @@ In this episode I break a concept drawing of the cannon into its constituent par
 
 ##Coming up next...##
 
-In the next episode I'll go a bit further towards bringing the Noun object to life by giving it 'materialize' and 'dematerialize' sequences. I'll also take a look at how to use Chrome's profiling tools to make sure objects are being properly garbage collected.
+In the next episode I'll draw a 'puff' animation and bind it directly to the materialize/dematerialize tweens. I'll also be creating a automated cloud of Nouns that are winking in and out of existence. Gonna be fun!
 
 
 
