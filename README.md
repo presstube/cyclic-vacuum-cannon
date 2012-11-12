@@ -22,7 +22,7 @@ The Cyclic Vacuum Cannon is a contraption that steals objects from elsewhere in 
 In this episode I start building a 'materialize' and 'dematerialize' sequence for the Noun object:
 
 - Quick recap of the previous episode and make a few small corrections
-- Load in [Zoë](http://createjs.com/#!/TweenJS "Tweenjs") and create a 'materialize' and 'dematerialize' sequence for the Noun object
+- Load in [Tweenjs](http://createjs.com/#!/TweenJS "Tweenjs") and create a 'materialize' and 'dematerialize' sequence for the Noun object
 - Build a crude test system that allows me to put the new materialize/demateriaze sequences through their paces
 - Take a look at how to use Chrome's profiling tools to make sure that objects are getting properly garbage collected
 
