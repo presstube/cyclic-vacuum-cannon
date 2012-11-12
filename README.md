@@ -4,13 +4,28 @@
 
 #Cyclic Vacuum Cannon#
 
-[![Part 2 - Drawing Nouns](http://presstube.com/cyclic-vacuum-cannon/img/cvc-dark-title-screen.jpg)](https://vimeo.com/52880743 "Watch the latest episode, Part 2: Drawing Nouns")
+[![Watch the latest episode!](http://presstube.com/cyclic-vacuum-cannon/img/cvc-dark-title-screen.jpg)](https://vimeo.com/53179569 "Watch the latest episode!")
 
 The Cyclic Vacuum Cannon is a contraption that steals objects from elsewhere in time and space, then spits them out to propel itself forward and/or blast enemies. It's a concept from my sketchbook that I've been wanting to bring to life for a while, so I chose it as the inaugural project for my [Code Journal](#about-presstube-code-journal "About Presstube Code Journal").
 
 <!-- You can find out more about the Cyclic Vacuum Cannon at [its other home at Presstube](http://presstube.com/cyclic-vacuum-cannon "Cyclic Vacuum Cannon at Presstube"). -->
 
 ♥ James ([@presstube](http://twitter.com/presstube "Presstube on Twitter"))
+
+
+
+
+##Part 3: Materializing Nouns → [Watch Screencast](https://vimeo.com/53179569 "Watch Part 3: Materializing Nouns")##
+
+[![Part 3 - Materializing Nouns](http://presstube.com/cyclic-vacuum-cannon/img/vimeo-screenshot-part-3.jpg)](https://vimeo.com/53179569 "Watch Part 3: Materializing Nouns")
+
+In this episode I start building a 'materialize' and 'dematerialize' sequence for the Noun object:
+
+- Quick recap of the previous episode and make a few small corrections
+- Load in [Zoë](http://createjs.com/#!/TweenJS "Tweenjs") and create a 'materialize' and 'dematerialize' sequence for the Noun object
+- Build a crude test system that allows me to put the new materialize/demateriaze sequences through their paces
+- Take a look at how to use Chrome's profiling tools to make sure that objects are getting properly garbage collected
+
 
 
 
