@@ -13,6 +13,7 @@
 <canvas id="canvas"></canvas>
 <script type="text/javascript" src="http://code.createjs.com/easeljs-0.5.0.min.js"></script>
 <script type="text/javascript" src="http://code.createjs.com/tweenjs-0.3.0.min.js"></script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.2/underscore-min.js"></script>
 <script type="text/javascript">
 
 	var c = createjs,
@@ -41,10 +42,20 @@
 			noun.y = Math.random()*200 - Math.random()*200;
 			noun.rotation = Math.random()*30 - Math.random()*30;
 			centeredContainer.addChild(noun);
+			// wait 2 seconds, then dematerialize noun
+			_.delay(function() {
+				noun.dematerialize();
+			}, 2000);
 		}
 
 		function onPress() {
 			spawnNoun();
+		}
+
+		function onTick() {
+			if (Math.random() < .05) {
+				spawnNoun();
+			}
 		}
 
 		resize();
@@ -54,6 +65,7 @@
 		stage.addChild(bgRect);
 		stage.addChild(centeredContainer);
 		bgRect.onPress = onPress;
+		stage.onTick = onTick;
 
 	}
 
@@ -61,20 +73,20 @@
 	pt.Noun = function() { this.initialize(); };
 	p = pt.Noun.prototype = new c.Container;
 	p.Container_initialize = p.initialize;
-	pt.Noun.libraryAnimSpriteSheet = new c.SpriteSheet({"animations": {"all": [0, 2]}, "images": ["nounLibraryAnim.png"], "frames": {"regY": 42, "height": 90, "regX": 22, "width": 42, "count": 3}});
 	p.initialize = function() {
 
 		this.Container_initialize();
 
 		var noun = this,
-			libraryAnim = new c.BitmapAnimation(pt.Noun.libraryAnimSpriteSheet);
+			libraryAnim = new c.BitmapAnimation(pt.Noun.libraryAnimSpriteSheet),
+			puffAnim = new c.BitmapAnimation(pt.Noun.puffAnimSpriteSheet);
 
 		function materialize() {
-			c.Tween.get(libraryAnim).to({scaleX: 1, scaleY: 1}, 1000, c.Ease.quintOut);
+			c.Tween.get(libraryAnim, {onChange: matchPuffFrameToLibraryScale}).to({scaleX: 1, scaleY: 1}, 800, c.Ease.quintIn);
 		}
 
 		function dematerialize() {
-			c.Tween.get(libraryAnim).to({scaleX: 0, scaleY: 0}, 1000, c.Ease.quintOut).call(onDematerializeComplete);
+			c.Tween.get(libraryAnim, {onChange: matchPuffFrameToLibraryScale}).to({scaleX: 0, scaleY: 0}, 800, c.Ease.quintOut).call(onDematerializeComplete);
 		}
 
 		function onDematerializeComplete() {
@@ -85,13 +97,24 @@
 			dematerialize();
 		}
 
+		function matchPuffFrameToLibraryScale() {
+			var frame = Math.floor(puffAnim.spriteSheet.getNumFrames() * libraryAnim.scaleX);
+			puffAnim.gotoAndStop(frame);
+		}
+
 		libraryAnim.scaleX = libraryAnim.scaleY = 0;
 		noun.addChild(libraryAnim);
 		libraryAnim.gotoAndStop(Math.floor(Math.random() * libraryAnim.spriteSheet.getNumFrames()));
 		materialize();
 		noun.onPress = onPress;
+		noun.addChild(puffAnim);
+		noun.dematerialize = dematerialize;
+
 	}
 
+	pt.Noun.libraryAnimSpriteSheet = new c.SpriteSheet({"animations": {"all": [0, 2]}, "images": ["nounLibraryAnim.png"], "frames": {"regY": 42, "height": 90, "regX": 22, "width": 42, "count": 3}});
+
+	pt.Noun.puffAnimSpriteSheet = new c.SpriteSheet({"frames": {"height": 103, "count": 14, "regY": 50, "width": 99, "regX": 50}, "animations": {"all": [0, 13]}, "images": ["nounPuffAnim.png"]});
 
 
 
