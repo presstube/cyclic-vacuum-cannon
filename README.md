@@ -15,6 +15,21 @@ The Cyclic Vacuum Cannon is a contraption that steals objects from elsewhere in 
 
 
 
+##Part 4: Noun Puff Animation → [Watch Screencast](https://vimeo.com/53878161 "Watch Part 4: Noun Puff Animation")##
+
+[![Part 4: Noun Puff Animation](http://presstube.com/cyclic-vacuum-cannon/img/vimeo-screenshot-part-4.jpg)](https://vimeo.com/53179569 "Watch Part 4: Noun Puff Animation")
+
+In this episode I finish the Noun object by adding a hand-drawn 'puff' animation to its materialize and dematerialize sequences:
+
+- Draw the puff animation frame-by-frame in Flash
+- Code up the puff animation and control its playback by piggybacking the tweens we're already using to materialize and dematerialize the Noun
+- Create a system that spawns and destroys Nouns automatically in a little cloud in the center of the screen
+- Load up [Underscorejs](http://underscorejs.org/ "Underscorejs") because I'll be using the library extensively moving forward
+
+
+
+
+
 ##Part 3: Materializing Nouns → [Watch Screencast](https://vimeo.com/53179569 "Watch Part 3: Materializing Nouns")##
 
 [![Part 3 - Materializing Nouns](http://presstube.com/cyclic-vacuum-cannon/img/vimeo-screenshot-part-3.jpg)](https://vimeo.com/53179569 "Watch Part 3: Materializing Nouns")
