@@ -17,7 +17,7 @@ The Cyclic Vacuum Cannon is a contraption that steals objects from elsewhere in 
 
 ##Part 4: Noun Puff Animation → [Watch Screencast](https://vimeo.com/53878161 "Watch Part 4: Noun Puff Animation")##
 
-[![Part 4: Noun Puff Animation](http://presstube.com/cyclic-vacuum-cannon/img/vimeo-screenshot-part-4.jpg)](https://vimeo.com/53179569 "Watch Part 4: Noun Puff Animation")
+[![Part 4: Noun Puff Animation](http://presstube.com/cyclic-vacuum-cannon/img/vimeo-screenshot-part-4.jpg)](https://vimeo.com/53878161 "Watch Part 4: Noun Puff Animation")
 
 In this episode I finish the Noun object by adding a hand-drawn 'puff' animation to its materialize and dematerialize sequences:
 
