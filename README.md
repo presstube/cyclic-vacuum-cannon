@@ -19,7 +19,7 @@ The Cyclic Vacuum Cannon is a contraption that steals objects from elsewhere in 
 
 [![Part 4: Noun Puff Animation](http://presstube.com/cyclic-vacuum-cannon/img/vimeo-screenshot-part-4.jpg)](https://vimeo.com/53878161 "Watch Part 4: Noun Puff Animation")
 
-In this episode I finish the Noun object by adding a hand-drawn 'puff' animation to its materialize and dematerialize sequences:
+In this episode I finish the Noun object by adding a hand-drawn 'puff' animation to its materialize and dematerialize sequence. Then I rig that puff animation up so that its playback and timing is controlled by the code-based tweens that are already in place. "Tween, meet your long-lost father, In-Between. I think you two are going to get along just fine..."
 
 - Draw the puff animation frame-by-frame in Flash
 - Code up the puff animation and control its playback by piggybacking the tweens we're already using to materialize and dematerialize the Noun
